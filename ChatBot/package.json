@@ -1,0 +1,21 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "ChatBot",
+  "main": "app.js",
+  "author": {
+    "name": "Abhishek",
+    "email": "abmishra@outlook.in",
+    "url": "https://facebook.com/abhisheks.net"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "3.4.4",
+    "isomorphic-fetch": "^2.2.1",
+    "jade": "*",
+    "node-wit": "^4.2.0",
+    "request": "^2.81.0",
+    "stylus": "*",
+    "uuid": "^3.0.1"
+  }
+}
